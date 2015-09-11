@@ -17,7 +17,7 @@ def hello_monkey():
         #Greet caller by name
         resp.say("Hello " + callers[from_number])
     else:
-        resp.say("FUCK YOU")
+        resp.say("Who this? Who this?")
 
     return str(resp)
 
